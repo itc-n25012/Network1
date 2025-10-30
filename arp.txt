@@ -1,0 +1,13 @@
+ 52 54 00 d8 5a 2b             distination
+ 52 54 00 a6 a4 4e             source
+ 08 06                         type
+ 00 01                         hw
+ 08 00                         protocol
+ 06                            length
+ 04                            length
+ 00 02                         request or reply        request=01,reply=02
+ 52 54 00 a6 a4 4e             source mac address
+ c0 a8 7a 01                   source ip address
+ 52 54 00 d8 5a 2b             distination mac address
+ c0 a8 7a 97                   distination ip address
+
